@@ -71,7 +71,7 @@ node tests/web.test.cjs
 
 ```sh
 cd macos
-./build.command
+zsh build.command
 ```
 
 Нативні перевірки з кореня репозиторію:
