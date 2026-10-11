@@ -31,6 +31,6 @@ Messages include text, voice notes, stickers and media; voice notes are not tran
 
 ## Development
 
-Run `node tests/web.test.cjs` with Node.js 20+. For the native build, run `macos/build.command` on macOS with Apple Command Line Tools installed.
+Run `node tests/web.test.cjs` with Node.js 20+. For the native build, run `zsh macos/build.command` on macOS with Apple Command Line Tools installed.
 
 Report bugs with a minimal fictional example. Do not attach private Telegram exports to public issues.
